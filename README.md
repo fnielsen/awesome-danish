@@ -2,6 +2,19 @@
 A curated list of awesome resources for Danish language technology
 
 ## Corpora
+[NST-ngrams](http://www.nb.no/sprakbanken/show?serial=sbr-28) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
+[NST-speech-22khz](http://www.nb.no/sprakbanken/show?serial=sbr-20) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
+[NST-speech-16kHz](http://www.nb.no/sprakbanken/show?serial=sbr-19) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
+[NST-speech-44kHz](http://www.nb.no/sprakbanken/show?serial=sbr-21) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
+
+## Dictionaries
+[NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
+
+## Automatic Speech Recognition
+[kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
+
+## Speech Synthesis (text-to-speech)
+[espeak](http://espeak.sourceforge.net/) - An open-source speech synthesis program for ~56 languages including Danish. eSpeak can also be used as a grapheme-to-phoneme converter and was used to create the Danish Kaldi recipe.
 
 ## Sentiment analysis
 - [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
