@@ -15,6 +15,7 @@ A curated list of awesome resources for Danish language technology
 
 ## Speech Synthesis (text-to-speech)
 * [espeak](http://espeak.sourceforge.net/) - An open-source speech synthesis program for ~56 languages including Danish. eSpeak can also be used as a grapheme-to-phoneme converter and was used to create the Danish Kaldi recipe.
+* [ResponsiveVoice](https://responsivevoice.org/) - Web-based (Javascript-based) text-to-speech synthesis for a number of language, including Danish. The commercial service is currently free for limited and non-commercial use.
 
 ## Sentiment analysis
 - [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
