@@ -11,6 +11,7 @@ A curated list of awesome resources for Danish language technology
   * [The Danish Parliament Corpus 2009 - 2017, v1](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/8). The license is Creative Commons - Attribution 4.0 International
   * [Grundtvig's Works Corpus](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/31). Not for commercial use as the license is Creative Commons - Attribution-NonCommercial 4.0 International.
   * [DK-CLARIN Reference Corpus of General Danish](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/36) Only for academic use.
+* [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) is "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://tools.wmflabs.org/scholia/work/Q57730960) ]
 
 ## Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
