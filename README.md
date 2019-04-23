@@ -24,6 +24,7 @@ A curated list of awesome resources for Danish language technology
 * The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
   * Primary distribution site at http://da.speling.org/ seems no longer available 
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
+* [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
 
 ## Automatic Speech Recognition
 * [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
