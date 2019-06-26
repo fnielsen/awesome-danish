@@ -27,6 +27,9 @@ A curated list of awesome resources for Danish language technology
   * Primary distribution site at http://da.speling.org/ seems no longer available 
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
+* Wikidata lexemes, structured database with metadata bout lexemes, their forms and their sense. Over 50.000 lexemes including 1.800 Danish in June 2019
+  * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035)
+  * [Latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2)
 
 ## Automatic Speech Recognition
 * [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
