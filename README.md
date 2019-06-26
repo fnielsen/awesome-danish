@@ -14,6 +14,7 @@ A curated list of awesome resources for Danish language technology
 * [SemDaX](https://github.com/coastalcph/semdax) For educational, teaching or research purposes only. POS-tagged (only adjectives, nouns and verbs), super sense tagged and BIO-tagged sentences
 * [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) is "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://tools.wmflabs.org/scholia/work/Q57730960) ]
 * [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/), commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
+* [DKhate](https://leondz.github.io/hatespeechdata/), corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2019)
 
 ## Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
