@@ -54,6 +54,7 @@ A curated list of awesome resources for Danish language technology
 - [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
 - [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python
 - [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
+- [DaNLP](https://github.com/alexandrainst/danlp/) - "a repository for Natural Language Processing resources for the Danish Language."
 - [dapipe](https://github.com/ITUnlp/dapipe) - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 - [DKIE](https://gate.ac.uk/sale/tao/splitch15.html#sec:misc-creole:language-plugins:danish) - GATE pipeline including wrapped Danish models for Stanford CoreNLP.
 - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/). Python software package for dependency parsing, including tokenization, lemmatization and part-of-speech tagging. A pre-trained model for Danish is available.
