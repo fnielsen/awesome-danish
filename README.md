@@ -16,6 +16,10 @@ A curated list of awesome resources for Danish language technology
 * [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/), commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
 * [DKhate](https://leondz.github.io/hatespeechdata/), corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2019)
 
+Parallel corpora: 
+* [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
+* [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), parallel sentences from Wikipedias. 1620 language pairs, including Danish
+
 ## Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
 * DanNet [DanNet, Danish Wordnet (v 2.2) - owl format](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/25) - Danish wordnet with three-clause BSD-like license.
