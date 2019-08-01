@@ -60,6 +60,7 @@ Parallel corpora:
 - [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
 - [DaNLP](https://github.com/alexandrainst/danlp/) - "a repository for Natural Language Processing resources for the Danish Language."
 - [dapipe](https://github.com/ITUnlp/dapipe) - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
+- [UDPipe] (http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998
 - [DKIE](https://gate.ac.uk/sale/tao/splitch15.html#sec:misc-creole:language-plugins:danish) - GATE pipeline including wrapped Danish models for Stanford CoreNLP.
 - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/). Python software package for dependency parsing, including tokenization, lemmatization and part-of-speech tagging. A pre-trained model for Danish is available.
  - [bornholmsk](https://github.com/leondz/bornholmsk) - Datasets and embeddings for the Bornholmsk dialect.
