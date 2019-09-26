@@ -32,9 +32,9 @@ Parallel corpora:
   * Primary distribution site at http://da.speling.org/ seems no longer available 
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
-* Wikidata lexemes, structured database with metadata bout lexemes, their forms and their sense. Over 50.000 lexemes including 1.800 Danish in June 2019
-  * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035)
-  * [Latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2)
+* Wikidata lexemes - structured database with metadata bout alexemes, their forms and their sense. Over [180.000 lexemes](https://tools.wmflabs.org/ordia/statistics/) including [1.800 Danish](https://tools.wmflabs.org/ordia/language/) in September 2019
+  * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035) - webapp with overview of content of Wikidata lexemes based on SPARQL queries. 
+  * [Wikidata lexemes latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2) - official dump of lexeme-only part of Wikidata.
 
 ## Automatic Speech Recognition
 * [danspeech](https://github.com/danspeech/danspeech) - DeepSpeech2-based Danish speech recognition in Python
