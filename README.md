@@ -11,10 +11,11 @@ A curated list of awesome resources for Danish language technology
   * [The Danish Parliament Corpus 2009 - 2017, v1](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/8). The license is Creative Commons - Attribution 4.0 International
   * [Grundtvig's Works Corpus](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/31). Not for commercial use as the license is Creative Commons - Attribution-NonCommercial 4.0 International.
   * [DK-CLARIN Reference Corpus of General Danish](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/36) Only for academic use.
-* [SemDaX](https://github.com/coastalcph/semdax) For educational, teaching or research purposes only. POS-tagged (only adjectives, nouns and verbs), super sense tagged and BIO-tagged sentences
-* [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) is "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://tools.wmflabs.org/scholia/work/Q57730960) ]
-* [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/), commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
-* [DKhate](https://leondz.github.io/hatespeechdata/), corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2019)
+* [SemDaX](https://github.com/coastalcph/semdax) - POS-tagged (only adjectives, nouns and verbs), super sense tagged and BIO-tagged sentences. For educational, teaching or research purposes only. 
+* [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) - "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://tools.wmflabs.org/scholia/work/Q57730960) ]
+* [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/) - commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
+* [Danish Dependency Treebank v. 1.0](http://www.buch-kromann.dk/matthias/ddt1.0/) - Matthias Trautner Kromann et al.'s dependency annotation of some texts from PAROLE.
+* [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2019)
 
 Parallel corpora: 
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
