@@ -35,6 +35,17 @@ Parallel corpora:
 * Wikidata lexemes - structured database with metadata bout alexemes, their forms and their sense. Over [180.000 lexemes](https://tools.wmflabs.org/ordia/statistics/) including [over 2.500 Danish lexemes](https://tools.wmflabs.org/ordia/language/) in September 2019
   * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035) - webapp with overview of content of Wikidata lexemes based on SPARQL queries. 
   * [Wikidata lexemes latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2) - official dump of lexeme-only part of Wikidata.
+* [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
+
+## Word sets
+* [Danish-Similarity-Dataset](https://github.com/kuhumcst/Danish-Similarity-Dataset) - Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen.
+* [Wordsim353-da](https://github.com/fnielsen/dasem/tree/master/dasem/data/wordsim353-da) - Danish translation by Finn Årup Nielsen of the English Wordsim353 English word pair set.
+* [Four words](https://github.com/fnielsen/dasem/tree/master/dasem/data) - 100 odd-one-out sets of 4 words or phrases.
+
+## Embeddings 
+- [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q49985142)). 
+- [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q28775150)).
+- [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 
 ## Automatic Speech Recognition
 * [danspeech](https://github.com/danspeech/danspeech) - DeepSpeech2-based Danish speech recognition in Python
@@ -45,17 +56,11 @@ Parallel corpora:
 * [ResponsiveVoice](https://responsivevoice.org/) - Web-based (Javascript-based) text-to-speech synthesis for a number of languages, including Danish. The commercial service is currently free for limited and non-commercial use.
 
 ## Sentiment analysis
-- [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
 - [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
 - [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation.
 
 ## Lexical norms
 - [concreteness-estimates-da](https://github.com/billdthompson/cogsci-auto-norm/blob/master/results/concreteness-estimates-da.csv) - Bill D. Thompson's concreteness estimates for Danish words, as detailed in *[Automatic Estimation of Lexical Concreteness in 77 Languages](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2622741/component/escidoc:2622739/Thompson_Lupyan_2018.pdf)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q56219750)).
-
-## Embeddings 
-- [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q49985142)). 
-- [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q28775150)).
-- [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 
 ## Fundamental processing
 - [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
