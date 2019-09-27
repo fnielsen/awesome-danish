@@ -1,7 +1,8 @@
 # Awesome Danish
 A curated list of awesome resources for Danish language technology
 
-## Corpora
+## Data
+### Corpora
 * NST
   * [NST-ngrams](http://www.nb.no/sprakbanken/show?serial=sbr-28) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
   * [NST-speech-22khz](http://www.nb.no/sprakbanken/show?serial=sbr-20) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
@@ -21,7 +22,7 @@ Parallel corpora:
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
 * [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), parallel sentences from Wikipedias. 1620 language pairs, including Danish
 
-## Dictionaries and ontologies
+### Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
 * DanNet [DanNet, Danish Wordnet (v 2.2) - owl format](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/25) - Danish wordnet with three-clause BSD-like license.
 * [Retskrivningsordbogen](https://dsn.dk/retskrivning/om-retskrivningsordbogen/ro-elektronisk-og-som-bog). The official Danish spelling dictionary digitally avaiable under its own special license.
@@ -38,29 +39,31 @@ Parallel corpora:
 * [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
 * [concreteness-estimates-da](https://github.com/billdthompson/cogsci-auto-norm/blob/master/results/concreteness-estimates-da.csv) - Bill D. Thompson's concreteness estimates for Danish words, as detailed in *[Automatic Estimation of Lexical Concreteness in 77 Languages](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2622741/component/escidoc:2622739/Thompson_Lupyan_2018.pdf)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q56219750)).
 
-## Word sets
+### Word sets
 * [Danish-Similarity-Dataset](https://github.com/kuhumcst/Danish-Similarity-Dataset) - Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen.
 * [Wordsim353-da](https://github.com/fnielsen/dasem/tree/master/dasem/data/wordsim353-da) - Danish translation by Finn Årup Nielsen of the English Wordsim353 English word pair set.
 * [Four words](https://github.com/fnielsen/dasem/tree/master/dasem/data) - 100 odd-one-out sets of 4 words or phrases.
 
-## Embeddings 
+### Embeddings 
 - [cc.da.300](https://fasttext.cc/docs/en/crawl-vectors.html) ([bin file GB large](https://s3-us-west-1.amazonaws.com/fasttext-vectors/word-vectors-v2/cc.da.300.bin.gz)) - fastText-trained embedding on Danish part of *Common Crawl* and Danish Wikipedia. Read more about the method in *[Learning Word Vectors for 157 Languages](https://arxiv.org/pdf/1802.06893)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q49985142)). 
 - [wiki.da](https://fasttext.cc/docs/en/pretrained-vectors.html) ([bin+text file](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.da.zip)) - fastText-trained embedding on Danish Wikipedia. Read more about the method in *[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q28775150)).
 - [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 
-## Automatic Speech Recognition
+## Tools 
+
+### Automatic Speech Recognition
 * [danspeech](https://github.com/danspeech/danspeech) - DeepSpeech2-based Danish speech recognition in Python
 * [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
 
-## Speech Synthesis (text-to-speech)
+### Speech Synthesis (text-to-speech)
 * [espeak](http://espeak.sourceforge.net/) - An open-source speech synthesis program for ~56 languages including Danish. eSpeak can also be used as a grapheme-to-phoneme converter and was used to create the Danish Kaldi recipe.
 * [ResponsiveVoice](https://responsivevoice.org/) - Web-based (Javascript-based) text-to-speech synthesis for a number of languages, including Danish. The commercial service is currently free for limited and non-commercial use.
 
-## Sentiment analysis
+### Sentiment analysis
 - [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
-- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation.
+- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q67272735)).
 
-## Fundamental processing
+### Fundamental processing
 - [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
 - [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python
 - [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
