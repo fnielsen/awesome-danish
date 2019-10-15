@@ -18,9 +18,14 @@ A curated list of awesome resources for Danish language technology
 * [Danish Dependency Treebank v. 1.0](http://www.buch-kromann.dk/matthias/ddt1.0/) - Matthias Trautner Kromann et al.'s dependency annotation of some texts from PAROLE.
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2019)
 
-Parallel corpora: 
+### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
 * [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), parallel sentences from Wikipedias. 1620 language pairs, including Danish
+
+### Spoken language corpora
+* DanPASS - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://tools.wmflabs.org/scholia/work/Q71038312))
+* DK-Parole
+* LANCHART
 
 ### Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
