@@ -58,6 +58,7 @@ Parallel corpora:
 ### Speech Synthesis (text-to-speech)
 * [espeak](http://espeak.sourceforge.net/) - An open-source speech synthesis program for ~56 languages including Danish. eSpeak can also be used as a grapheme-to-phoneme converter and was used to create the Danish Kaldi recipe.
 * [ResponsiveVoice](https://responsivevoice.org/) - Web-based (Javascript-based) text-to-speech synthesis for a number of languages, including Danish. The commercial service is currently free for limited and non-commercial use.
+* [Amazon Polly](https://aws.amazon.com/polly/) - Web-based text-to-speech synthesis for a number of languages, including Danish. Part of Amazon's commercial AWS services. Female and male voice are available as examples.
 
 ### Sentiment analysis
 - [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
