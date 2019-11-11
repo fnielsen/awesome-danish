@@ -56,6 +56,19 @@ A curated list of awesome resources for Danish language technology
 
 ## Tools 
 
+### Lemmatization 
+- [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python
+- [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
+
+### Named entity recognition
+- [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
+- [flair+danlp ner-tagger](https://github.com/alexandrainst/danlp/blob/master/docs/models/ner.md) - Flair NER tagger trained by the Alexandra Institute.
+- [Polyglot named entity extraction](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - 
+
+### Sentiment analysis
+- [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
+- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q67272735)).
+
 ### Automatic Speech Recognition
 * [danspeech](https://github.com/danspeech/danspeech) - DeepSpeech2-based Danish speech recognition in Python
 * [kaldi-sprakbanken](https://github.com/kaldi-asr/kaldi/tree/master/egs/sprakbanken/s5) - A recipe for training state-of-the-art(2017) speech recogniser for Danish based on the 16kHz NST database.
@@ -66,14 +79,7 @@ A curated list of awesome resources for Danish language technology
 * [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech/) - Commercial Web-based text-to-speech synthesis for a number of languages, including Danish.
 * [Amazon Polly](https://aws.amazon.com/polly/) - Commercial Web-based text-to-speech synthesis for a number of languages, including Danish. Part of Amazon's commercial AWS services. Female and male voices are available as examples. Limited unregistered free service available at [TTSMP3](https://ttsmp3.com/text-to-speech/Danish/).
 
-### Sentiment analysis
-- [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
-- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q67272735)).
-
 ### Fundamental processing
-- [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
-- [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python
-- [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
 - [DaNLP](https://github.com/alexandrainst/danlp/) - "a repository for Natural Language Processing resources for the Danish Language."
 - [dapipe](https://github.com/ITUnlp/dapipe) - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
 - [UDPipe](http://ufal.mff.cuni.cz/udpipe) - Non-language specific version of dapipe. Newer version of the Danish-DDT model than that which is offered by dapipe is available at https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2998
