@@ -55,7 +55,7 @@ A curated list of awesome resources for Danish language technology
 - [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 
 ### Neural models
-- [Danish BERT](https://github.com/mollerhoj/danish_bert) - Weights for a BERT trained on large Danish corpora.
+- [Danish BERT](https://github.com/mollerhoj/danish_bert) - Weights for a BERT trained on a large Danish corpora.
 
 ## Tools 
 
