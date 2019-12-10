@@ -3,6 +3,7 @@ A curated list of awesome resources for Danish language technology
 
 ## Data
 ### Corpora
+* [Danish Gigaword](http://gigaword.dk/) - Collection of Danish corpora.
 * NST
   * [NST-ngrams](http://www.nb.no/sprakbanken/show?serial=sbr-28) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
   * [NST-speech-22khz](http://www.nb.no/sprakbanken/show?serial=sbr-20) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
