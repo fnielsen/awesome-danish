@@ -27,6 +27,7 @@ A curated list of awesome resources for Danish language technology
 * DanPASS - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://tools.wmflabs.org/scholia/work/Q71038312))
 * DK-Parole
 * LANCHART
+* [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 18 December 2019 there is no Danish data. Described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://tools.wmflabs.org/scholia/work/Q79020060))
 
 ### Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
