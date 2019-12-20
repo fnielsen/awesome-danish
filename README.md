@@ -92,6 +92,9 @@ A curated list of awesome resources for Danish language technology
 - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/). Python software package for dependency parsing, including tokenization, lemmatization and part-of-speech tagging. A pre-trained model for Danish is available.
  - [bornholmsk](https://github.com/leondz/bornholmsk) - Datasets and embeddings for the Bornholmsk dialect.
 
+## Competitions 
+- [ELEXIS Monolingual Word Sense Alignment Task](https://competitions.codalab.org/competitions/22163) - Predicting the relationship between two senses for several language, including Danish.
+
 ## Resources about resources
 - [Danish resources](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6956/pdf/imm6956.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
 - [Scholia's topic aspect for *Danish*](https://tools.wmflabs.org/scholia/topic/Q9035), works (mostly scientific articles) about "Danish" as listed in Wikidata.
