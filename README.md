@@ -46,6 +46,7 @@ A curated list of awesome resources for Danish language technology
   * [Wikidata lexemes latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2) - official dump of lexeme-only part of Wikidata.
 * [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
 * [concreteness-estimates-da](https://github.com/billdthompson/cogsci-auto-norm/blob/master/results/concreteness-estimates-da.csv) - Bill D. Thompson's concreteness estimates for Danish words, as detailed in *[Automatic Estimation of Lexical Concreteness in 77 Languages](http://pubman.mpdl.mpg.de/pubman/item/escidoc:2622741/component/escidoc:2622739/Thompson_Lupyan_2018.pdf)* ([Scholia](https://tools.wmflabs.org/scholia/work/Q56219750)).
+* [Danish Swadesh List](https://archive.org/details/rosettaproject_dan_swadesh-1) - List of Danish words of basic concepts from The Rosetta Project.
 
 ### Word sets
 * [Danish-Similarity-Dataset](https://github.com/kuhumcst/Danish-Similarity-Dataset) - Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen.
