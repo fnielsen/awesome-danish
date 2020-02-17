@@ -4,6 +4,7 @@ A curated list of awesome resources for Danish language technology
 ## Data
 ### Corpora
 * [Danish Gigaword](http://gigaword.dk/) - Collection of Danish corpora.
+* [OSCAR](https://traces1.inria.fr/oscar/) - Danish corpus derived from the Common Crawl corpus. Described in [Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf) ([Scholia](https://tools.wmflabs.org/scholia/work/Q85398180))
 * NST
   * [NST-ngrams](http://www.nb.no/sprakbanken/show?serial=sbr-28) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
   * [NST-speech-22khz](http://www.nb.no/sprakbanken/show?serial=sbr-20) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
