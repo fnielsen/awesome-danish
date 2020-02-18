@@ -20,6 +20,7 @@ A curated list of awesome resources for Danish language technology
 * [Danish Dependency Treebank v. 1.0](http://www.buch-kromann.dk/matthias/ddt1.0/) - Matthias Trautner Kromann et al.'s dependency annotation of some texts from PAROLE.
 * [Køge Corpus](https://biling.talkbank.org/access/Koge.html) - Danish-Turkish transcribed corpus by Jens Normann Jørgensen.
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2020)
+* DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://tools.wmflabs.org/scholia/work/Q85509730))
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
