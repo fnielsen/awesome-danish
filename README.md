@@ -18,7 +18,7 @@ A curated list of awesome resources for Danish language technology
 * [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) - "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://tools.wmflabs.org/scholia/work/Q57730960) ]
 * [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/) - commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
 * [Danish Dependency Treebank v. 1.0](http://www.buch-kromann.dk/matthias/ddt1.0/) - Matthias Trautner Kromann et al.'s dependency annotation of some texts from PAROLE.
-* [Mr. Bean corpus](https://blog.cbs.dk/mrbean-korpus/) - Small Danish-Italian corpus with written and spoken narration (of Mr Bean episodes) and discussion (of smoking). Possibly described in *Tekststrukturering pa italiensk og dansk*
+* [Mr. Bean corpus](https://blog.cbs.dk/mrbean-korpus/) - Small Danish-Italian corpus with written and spoken retelling (of Mr Bean episodes) and argumentative text (about smoking). Possibly described in *Tekststrukturering pa italiensk og dansk*
 * [Køge Corpus](https://biling.talkbank.org/access/Koge.html) - Danish-Turkish transcribed corpus by Jens Normann Jørgensen.
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2020)
 * DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://tools.wmflabs.org/scholia/work/Q85509730))
