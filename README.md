@@ -3,7 +3,7 @@ A curated list of awesome resources for Danish language technology
 
 ## Data
 ### Corpora
-* [Danish Gigaword](http://gigaword.dk/) - Collection of Danish corpora.
+* [Danish Gigaword](http://gigaword.dk/) - Collection of Danish corpora (as of May 2020 the corpus is not openly available).
 * [OSCAR](https://traces1.inria.fr/oscar/) - Danish corpus derived from the Common Crawl corpus. Described in [Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf) ([Scholia](https://tools.wmflabs.org/scholia/work/Q85398180))
 * NST
   * [NST-ngrams](http://www.nb.no/sprakbanken/show?serial=sbr-28) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
@@ -23,6 +23,8 @@ A curated list of awesome resources for Danish language technology
 * [Danske taler](https://dansketaler.dk) - Collection of Danish speeches. API available at https://dansketaler.dk/wp-json/wp/v2/tale
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2020)
 * DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://tools.wmflabs.org/scholia/work/Q85509730))
+* [Region Sjællands Dokumentportal](http://dok.regionsjaelland.dk/) - Health-oriented documents from Region Sjælland.
+* [Region Hovedstaden Dokumentsamling](https://vip.regionh.dk/VIP/Admin/GUI.nsf/Desktop.html) - Health-oriented documents from Region Hovedstaden.
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
