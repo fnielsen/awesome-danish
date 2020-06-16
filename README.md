@@ -106,7 +106,7 @@ A curated list of awesome resources for Danish language technology
 - [OffensEval 2020 - Danish](https://competitions.codalab.org/competitions/22998) - Offensive Language Identification in Social Media competition. Described in [Offensive Language and Hate Speech Detection for Danish](https://arxiv.org/pdf/1908.04531.pdf) ([Scholia](https://tools.wmflabs.org/scholia/work/Q66592400))
 
 ## Resources about resources
-- [Danish resources](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6956/pdf/imm6956.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
+- [Danish resources](https://people.compute.dtu.dk/faan/ps/Nielsen2016Danish.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
 - [Scholia's topic aspect for *Danish*](https://tools.wmflabs.org/scholia/topic/Q9035), works (mostly scientific articles) about "Danish" as listed in Wikidata.
 - [Language Technology Resources for Danish](https://korpus.dsl.dk/resources.html), list from Det Dansk Sprog- og Litteraturselskab
 - [European Language Resources Association (ELRA) list for *Danish*](http://catalog.elra.info/en-us/repository/search/?selected_facets=languageNameFilter_exact%3ADanish), list of various annotated corpora available for purchase with both commercial and non-commercial licenses.
