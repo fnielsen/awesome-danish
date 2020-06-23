@@ -110,3 +110,4 @@ A curated list of awesome resources for Danish language technology
 - [Scholia's topic aspect for *Danish*](https://tools.wmflabs.org/scholia/topic/Q9035), works (mostly scientific articles) about "Danish" as listed in Wikidata.
 - [Language Technology Resources for Danish](https://korpus.dsl.dk/resources.html), list from Det Dansk Sprog- og Litteraturselskab
 - [European Language Resources Association (ELRA) list for *Danish*](http://catalog.elra.info/en-us/repository/search/?selected_facets=languageNameFilter_exact%3ADanish), list of various annotated corpora available for purchase with both commercial and non-commercial licenses.
+- [sprogteknologi.dk](https://sprogteknologi.dk) - List of Danish language resources from the Agency for Digitisation.
