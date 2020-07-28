@@ -29,7 +29,7 @@ A curated list of awesome resources for Danish language technology
 * LANCHART
 * [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 18 December 2019 there is no Danish data. Described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://tools.wmflabs.org/scholia/work/Q79020060))
 * NST 
- * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
+  * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
   * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
   * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
 
