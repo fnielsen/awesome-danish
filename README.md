@@ -5,11 +5,6 @@ A curated list of awesome resources for Danish language technology
 ### Corpora
 * [Danish Gigaword](http://gigaword.dk/) - Collection of Danish corpora (as of May 2020 the corpus is not openly available).
 * [OSCAR](https://traces1.inria.fr/oscar/) - Danish corpus derived from the Common Crawl corpus. Described in [Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf) ([Scholia](https://tools.wmflabs.org/scholia/work/Q85398180))
-* NST
-  * [NST-ngrams](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-28/) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
-  * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
-  * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
-  * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
 * CLARIN-DK-UCPH
   * [The Danish Parliament Corpus 2009 - 2017, v1](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/8). The license is Creative Commons - Attribution 4.0 International
   * [Grundtvig's Works Corpus](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/31). Not for commercial use as the license is Creative Commons - Attribution-NonCommercial 4.0 International.
@@ -33,6 +28,11 @@ A curated list of awesome resources for Danish language technology
 * DK-Parole
 * LANCHART
 * [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 18 December 2019 there is no Danish data. Described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://tools.wmflabs.org/scholia/work/Q79020060))
+* NST 
+ * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
+  * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
+  * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
+
 
 ### Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
@@ -46,6 +46,7 @@ A curated list of awesome resources for Danish language technology
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
 * Wikidata lexemes - structured database with metadata bout alexemes, their forms and their sense. Over [240.000 lexemes](https://tools.wmflabs.org/ordia/statistics/) including [over 4'000 Danish lexemes](https://tools.wmflabs.org/ordia/language/) in February 2020.
+* [NST-ngrams](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-28/) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
   * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035) - webapp with overview of content of Wikidata lexemes based on SPARQL queries. 
   * [Wikidata lexemes latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2) - official dump of lexeme-only part of Wikidata.
 * [AFINN](https://github.com/fnielsen/afinn/tree/master/afinn/data) - Danish lexicons annotated for sentiment.  
