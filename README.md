@@ -41,7 +41,7 @@ A curated list of awesome resources for Danish language technology
   * [Opslagsord og ordklasser](https://dsn.dk/retskrivning/om-retskrivningsordbogen/RO2012.opslagsord.med.homnr.og.ordklasse.zip) in CSV format.
   * Lexemes, word classes and inflections. [Excerpt](https://dsn.dk/retskrivning/om-retskrivningsordbogen/ro-elektronisk-og-som-bog) in the CSF format available. Full list presumably available upon request.
   * Lexemes, word classes, inflections, grammatical information, hyphenation and usage examples in XML. Full list presumably available upon request.
-* [Stavekontrolden](https://stavekontrolden.dk/) (as of 25 September 2020 the website is offline, alternatively look at [Internet Archive](https://web.archive.org/web/20190602215600/http://www.stavekontrolden.dk/main/top/index.php)) - word list 
+* [Stavekontrolden](https://stavekontrolden.dk/) - word list 
 * The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
   * Primary distribution site at http://da.speling.org/ seems no longer available 
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
