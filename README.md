@@ -44,6 +44,7 @@ A curated list of awesome resources for Danish language technology
 * [Stavekontrolden](https://stavekontrolden.dk/) - word list with 160132 Danish words. Used, e.g., for spelling suggestion in LibreOffice. Licensed under GPL, LPGL, and MPL.
 * [The Concise Danish Dictionary](http://da.speling.org/)/The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
+* [Interactive Terminology for Europe](https://iate.europa.eu) (IATE) - European Union terminology database. October 2020 version contains over 500,000 Danish terms.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
 * Wikidata lexemes - structured database with metadata about lexemes, their forms and their sense. Over [300,000 lexemes](https://tools.wmflabs.org/ordia/statistics/) including [over 6,700 Danish lexemes](https://tools.wmflabs.org/ordia/language/) in October 2020.
   * [Overview over Danish lexemes in Ordia](https://tools.wmflabs.org/ordia/language/Q9035) - webapp with overview of content of Wikidata lexemes based on SPARQL queries. 
