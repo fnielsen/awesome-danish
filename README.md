@@ -42,8 +42,7 @@ A curated list of awesome resources for Danish language technology
   * Lexemes, word classes and inflections. [Excerpt](https://dsn.dk/retskrivning/om-retskrivningsordbogen/ro-elektronisk-og-som-bog) in the CSF format available. Full list presumably available upon request.
   * Lexemes, word classes, inflections, grammatical information, hyphenation and usage examples in XML. Full list presumably available upon request.
 * [Stavekontrolden](https://stavekontrolden.dk/) - word list with 160132 Danish words. Used, e.g., for spelling suggestion in LibreOffice. Licensed under GPL, LPGL, and MPL.
-* The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
-  * Primary distribution site at http://da.speling.org/ seems no longer available 
+* [The Concise Danish Dictionary](http://da.speling.org/)/The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/e-resources/FrameNet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
 * Wikidata lexemes - structured database with metadata about lexemes, their forms and their sense. Over [300,000 lexemes](https://tools.wmflabs.org/ordia/statistics/) including [over 6,700 Danish lexemes](https://tools.wmflabs.org/ordia/language/) in October 2020.
