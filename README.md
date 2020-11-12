@@ -78,6 +78,7 @@ A curated list of awesome resources for Danish language technology
 - [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
 
 ### Named entity recognition
+- [spaCy](https://spacy.io) - Python-based named entity extraction 
 - [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
 - [flair+danlp ner-tagger](https://github.com/alexandrainst/danlp/blob/master/docs/models/ner.md) - Flair NER tagger trained by the Alexandra Institute.
 - [Polyglot named entity extraction](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - 
