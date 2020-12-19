@@ -70,6 +70,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Neural models
 - [Danish BERT](https://github.com/mollerhoj/danish_bert) - Weights for a BERT trained on a large Danish corpora.
+- [Danish ELMo on OSCAR](https://oscar-corpus.com/files/models/cc/da.zip) - (Link does not work as of December 2020)
 
 ## Tools 
 
