@@ -21,6 +21,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
+* [JW300](http://opus.nlpl.eu/JW300.php) - "a parallel corpus of over 300 languages with around 100 thousand parallel sentences per language pair on average"
 * [Tatoeba](https://tatoeba.org/eng/downloads) - Sentences
 * [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), parallel sentences from Wikipedias. 1620 language pairs, including Danish
 
