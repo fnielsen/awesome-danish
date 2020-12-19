@@ -18,6 +18,7 @@ A curated list of awesome resources for Danish language technology
 * [Danske taler](https://dansketaler.dk) - Collection of Danish speeches. API available at https://dansketaler.dk/wp-json/wp/v2/tale
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2020)
 * DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://scholia.toolforge.org/work/Q85509730))
+* [XED](https://github.com/Helsinki-NLP/XED) - emotion annotated movie subtitles
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
