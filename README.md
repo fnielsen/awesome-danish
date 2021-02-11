@@ -79,6 +79,7 @@ A curated list of awesome resources for Danish language technology
 - [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) - Danish ELECTRA model. Available in the transformer library.
 - [Danish ELMo on OSCAR](https://oscar-corpus.com/files/models/cc/da.zip) - (Link does not work as of December 2020)
 - [Multilingual sentence transformers](https://www.sbert.net/docs/pretrained_models.html) - Pre-trained multilingual sentence transformers,
+- [wiki40b-lm-da](https://tfhub.dev/google/wiki40b-lm-da/1) - language model trained on Danish from Wiki40B dataset
 
 ## Tools 
 
