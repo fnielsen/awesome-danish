@@ -116,6 +116,8 @@ A curated list of awesome resources for Danish language technology
 - [DKIE](https://gate.ac.uk/sale/tao/splitch15.html#sec:misc-creole:language-plugins:danish) - GATE pipeline including wrapped Danish models for Stanford CoreNLP.
 - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/). Python software package for dependency parsing, including tokenization, lemmatization and part-of-speech tagging. A pre-trained model for Danish is available.
  - [bornholmsk](https://github.com/leondz/bornholmsk) - Datasets and embeddings for the Bornholmsk dialect.
+- [spaCy](https://spacy.io/) - Python-based natural language processing package
+- [dacy](https://github.com/KennethEnevoldsen/DaCy) - Danish spaCy pipeline.
 
 ## Competitions 
 - [ELEXIS Monolingual Word Sense Alignment Task](https://competitions.codalab.org/competitions/22163) - Predicting the relationship between two senses in each of several languages, including Danish.
