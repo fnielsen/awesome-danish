@@ -85,8 +85,9 @@ A curated list of awesome resources for Danish language technology
 ## Tools 
 
 ### Lemmatization 
-- [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python
-- [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser
+- [Lemmy](https://github.com/sorenlind/lemmy) - Lemmatizer for Danish in Python.
+- [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser.
+- [spaCy](https://spacy.io) - Python-based package with lemmatization.
 
 ### Named entity recognition
 - [spaCy](https://spacy.io) - Python-based named entity extraction 
