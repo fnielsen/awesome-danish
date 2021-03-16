@@ -20,7 +20,7 @@ A curated list of awesome resources for Danish language technology
 * DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://scholia.toolforge.org/work/Q85509730))
 * Wikipedia
   * [wiki40b/da](https://www.tensorflow.org/datasets/catalog/wiki40b#wiki40bda) - Clean-up text from Danish Wikipedia. Described in *[Wiki-40B: Multilingual Language Model Dataset](https://www.aclweb.org/anthology/2020.lrec-1.297/)*. ([Scholia](https://scholia.toolforge.org/work/Q105430726))
-* [XED](https://github.com/Helsinki-NLP/XED) - emotion annotated movie subtitles
+* [XED](https://github.com/Helsinki-NLP/XED) - emotion annotated movie subtitles. Described in *[XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection](https://www.aclweb.org/anthology/2020.coling-main.575.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q105978198)).
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
