@@ -96,6 +96,9 @@ A curated list of awesome resources for Danish language technology
 - [flair+danlp ner-tagger](https://github.com/alexandrainst/danlp/blob/master/docs/models/ner.md) - Flair NER tagger trained by the Alexandra Institute.
 - [Polyglot named entity extraction](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - 
 
+### Entity linking
+- [DBpedia Spotlight](https://www.dbpedia-spotlight.org/) - DBpedia-based entity linker. Described in *Improving Efficiency and Accuracy in Multilingual Entity Extraction* ([Scholia](https://scholia.toolforge.org/work/Q106526263))
+
 ### Sentiment analysis
 - [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
 - [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://scholia.toolforge.org/work/Q67272735)).
