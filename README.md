@@ -62,8 +62,8 @@ A curated list of awesome resources for Danish language technology
 * [Sketch Engine](https://www.sketchengine.eu) - cloud service with wordlists, thesearus, collocations, n-grams etc. Free for academic use in the European Union and paid service for commercial use.
 
 ### Word sets
-* [Danish-Similarity-Dataset](https://github.com/kuhumcst/Danish-Similarity-Dataset) - Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen.
-* [Wordsim353-da](https://github.com/fnielsen/dasem/tree/master/dasem/data/wordsim353-da) - Danish translation by Finn Årup Nielsen of the English Wordsim353 English word pair set.
+* [Danish-Similarity-Dataset](https://github.com/kuhumcst/Danish-Similarity-Dataset) - Similarity scores for 99 Danish word pairs by Nina Schneidermann and Bolette Sandford Pedersen. Also available in [danlp](https://github.com/alexandrainst/danlp/blob/master/docs/docs/datasets.md#danish-similarity-dataset).
+* [Wordsim353-da](https://github.com/fnielsen/dasem/tree/master/dasem/data/wordsim353-da) - Danish translation by Finn Årup Nielsen of the English Wordsim353 English word pair set. Also available in [danlp](https://github.com/alexandrainst/danlp/blob/master/docs/docs/datasets.md#wordsim-353).
 * [Four words](https://github.com/fnielsen/dasem/tree/master/dasem/data) - 100 odd-one-out sets of 4 words or phrases.
 
 ### Embeddings 
