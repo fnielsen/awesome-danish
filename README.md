@@ -131,6 +131,7 @@ A curated list of awesome resources for Danish language technology
 ## Resources about resources
 - [Danish resources](https://people.compute.dtu.dk/faan/ps/Nielsen2016Danish.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
 - [Scholia's topic aspect for *Danish*](https://scholia.toolforge.org/topic/Q9035), works (mostly scientific articles) about "Danish" as listed in Wikidata.
+- [DaNLP](https://github.com/alexandrainst/danlp) - Alexandra Institute's list of Danish resources
 - [Language Technology Resources for Danish](https://korpus.dsl.dk/resources.html), list from Det Dansk Sprog- og Litteraturselskab
 - [European Language Resources Association (ELRA) list for *Danish*](http://catalog.elra.info/en-us/repository/search/?selected_facets=languageNameFilter_exact%3ADanish), list of various annotated corpora available for purchase with both commercial and non-commercial licenses.
 - [sprogteknologi.dk](https://sprogteknologi.dk) - List of Danish language resources. Compiled by the Agency for Digitisation.
