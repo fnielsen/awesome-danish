@@ -34,7 +34,7 @@ A curated list of awesome resources for Danish language technology
 * DanPASS - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://scholia.toolforge.org/work/Q71038312))
 * DK-Parole
 * LANCHART
-* [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 18 December 2019 there is no Danish data. Described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://scholia.toolforge.org/work/Q79020060))
+* [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 6 May 2021, there is no Danish voice data. The interface is translated but public domain sentences need to be entered before voice recording can start. Sentence can be entered collaboratively at https://commonvoice.mozilla.org/sentence-collector. Common Voice is described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://scholia.toolforge.org/work/Q79020060))
 * NST 
   * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
   * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
