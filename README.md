@@ -31,7 +31,7 @@ A curated list of awesome resources for Danish language technology
 * [WikiMatrix](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix), parallel sentences from Wikipedias. 1620 language pairs, including Danish
 
 ### Spoken language corpora
-* DanPASS - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://scholia.toolforge.org/work/Q71038312))
+* [DanPASS](https://www.danpass.hum.ku.dk/) - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://scholia.toolforge.org/work/Q71038312))
 * DK-Parole
 * LANCHART
 * [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 6 May 2021, there is no Danish voice data. The interface is translated but public domain sentences need to be entered before voice recording can start. Sentence can be entered collaboratively at https://commonvoice.mozilla.org/sentence-collector. Common Voice is described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://scholia.toolforge.org/work/Q79020060))
