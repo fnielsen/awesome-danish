@@ -85,6 +85,7 @@ A curated list of awesome resources for Danish language technology
 - [Ælæctra](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased) - Malte Højmark-Bertelsen's Danish Gigaword-trained Electra-based model
 - [Multilingual sentence transformers](https://www.sbert.net/docs/pretrained_models.html) - Pre-trained multilingual sentence transformers,
 - [wiki40b-lm-da](https://tfhub.dev/google/wiki40b-lm-da/1) - language model trained on Danish from Wiki40B dataset
+- [WikiBERT](https://github.com/turkunlp/wikibert) - BERT model for many languages, including Danish. Described in *[WikiBERT models: deep transfer learning for many languages ](https://ep.liu.se/ecp/178/001/ecp2021178001.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107059867))
 
 ## Tools 
 
