@@ -19,7 +19,7 @@ A curated list of awesome resources for Danish language technology
 * [Køge Corpus](https://biling.talkbank.org/access/Koge.html) - Danish-Turkish transcribed corpus by Jens Normann Jørgensen.
 * [Danske taler](https://dansketaler.dk) - Collection of Danish speeches. API available at https://dansketaler.dk/wp-json/wp/v2/tale
 * [DKhate](https://leondz.github.io/hatespeechdata/) - corpus of 3600 hate speech from Twitter and Reddits as well as news comments (to appear in 2020)
-* DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in DaNewsroom: A Large-scale Danish Summarisation Dataset ([Scholia](https://scholia.toolforge.org/work/Q85509730))
+* DaNewsroom - Danish summarization dataset. Probably to appear in 2020. Described in *[DaNewsroom: A Large-scale Danish Summarisation Dataset](https://www.aclweb.org/anthology/2020.lrec-1.831.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q85509730))
 * Wikipedia
   * [wiki40b/da](https://www.tensorflow.org/datasets/catalog/wiki40b#wiki40bda) - Clean-up text from Danish Wikipedia. Described in *[Wiki-40B: Multilingual Language Model Dataset](https://www.aclweb.org/anthology/2020.lrec-1.297/)*. ([Scholia](https://scholia.toolforge.org/work/Q105430726))
 * [XED](https://github.com/Helsinki-NLP/XED) - emotion annotated movie subtitles. Described in *[XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection](https://www.aclweb.org/anthology/2020.coling-main.575.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q105978198)).
