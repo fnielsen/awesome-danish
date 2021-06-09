@@ -42,8 +42,7 @@ A curated list of awesome resources for Danish language technology
   * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
   * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
   * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
-* [Wikimedia Commons Audio files of Danish language](https://commons.wikimedia.org/wiki/Category:Audio_files_of_Danish_language) - Optagelser af oplæsninger af artikler fra den Danske Wikipedia, danske ord og nogle få danske litterære værker.
-
+* [Wikimedia Commons Audio files of Danish language](https://commons.wikimedia.org/wiki/Category:Audio_files_of_Danish_language) - Recordings of readings of articles from the Danish Wikipedia, Danish words and a few Danish literary works.
 
 ### Dictionaries and ontologies
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
