@@ -79,12 +79,12 @@ A curated list of awesome resources for Danish language technology
 * [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trains on Danish DSL corpus and Reddit.
 
 ### Neural models
-- [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by Analyse & Tal.
+- [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
 - [Danish BERT](https://github.com/mollerhoj/danish_bert) - Botxo/Møllerhøj's Weights for a BERT trained on a large Danish corpora.
 - [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
 - [ConvBERT](https://github.com/sarnikowski/danish_transformers/blob/main/convbert/README.md) - Philip Tamimi-Sarnikowski's model
 - [Danish ELMo on OSCAR](https://oscar-corpus.com/files/models/cc/da.zip) - (Link does not work as of December 2020)
-- [Ha-te](https://github.com/ogtal/Ha-te) - Hate speech detection based on Electra udviklet af Analyse & Tal.
+- [Ha-te](https://github.com/ogtal/Ha-te) - Hate speech detection based on Electra udviklet af [Analyse & Tal](https://ogtal.dk/). Related to the A-ttack model.
 - [Ælæctra](https://huggingface.co/Maltehb/-l-ctra-danish-electra-small-uncased) - Malte Højmark-Bertelsen's Danish Gigaword-trained Electra-based model
 - [Multilingual sentence transformers](https://www.sbert.net/docs/pretrained_models.html) - Pre-trained multilingual sentence transformers,
 - [wiki40b-lm-da](https://tfhub.dev/google/wiki40b-lm-da/1) - language model trained on Danish from Wiki40B dataset
