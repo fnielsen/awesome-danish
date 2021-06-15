@@ -79,6 +79,7 @@ A curated list of awesome resources for Danish language technology
 * [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trains on Danish DSL corpus and Reddit.
 
 ### Neural models
+- [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by Analyse & Tal.
 - [Danish BERT](https://github.com/mollerhoj/danish_bert) - Botxo/Møllerhøj's Weights for a BERT trained on a large Danish corpora.
 - [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
 - [ConvBERT](https://github.com/sarnikowski/danish_transformers/blob/main/convbert/README.md) - Philip Tamimi-Sarnikowski's model
