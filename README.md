@@ -102,7 +102,7 @@ A curated list of awesome resources for Danish language technology
 ### Named entity recognition
 - [DaLUKE](https://github.com/peleiden/daLUKE) - Danish named entity recognition based on LUKE. Described in *[DaLUKE: The Entity-aware,Danish Language Model](https://peleiden.github.io/bug-free-guacamole/main.pdf)*.
 - [spaCy](https://spacy.io) - Python-based named entity extraction 
-- [daner](https://github.com/ITUnlp/daner) - Named entity extraction.
+- [daner](https://github.com/ITUnlp/daner) - Named entity extraction from ITU NLP. Described in *[DKIE: Open Source Information Extraction for Danish](https://aclanthology.org/E14-2016.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q28609956)).
 - [flair+danlp ner-tagger](https://github.com/alexandrainst/danlp/blob/master/docs/docs/tasks/ner.md) - Flair NER tagger trained by the Alexandra Institute.
 - [Polyglot named entity extraction](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - 
 
