@@ -3,7 +3,8 @@ A curated list of awesome resources for Danish language technology
 
 ## Data
 ### Corpora
-* [Danish Gigaword](http://gigaword.dk/) - Collection of 10^12 words of Danish text. Described in *[The Danish Gigaword Corpus](http://www.ep.liu.se/ecp/178/046/ecp2021178046.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107060118))
+* [Danish Gigaword](http://gigaword.dk/) - Collection of 10^12 words of Danish text. Described in *[The Danish Gigaword Corpus](http://www.ep.liu.se/ecp/178/046/ecp2021178046.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107060118))'
+* [Danish review dataset](https://github.com/AlessandroGianfelici/danish_reviews_dataset) - Trustpilot-crawled dataset by Alessandro Gianfelici with  44,085 reviews .
 * [OSCAR](https://traces1.inria.fr/oscar/) - Danish corpus derived from the Common Crawl corpus. Described in *[Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q85398180))
 * CLARIN-DK-UCPH
   * [The Danish Parliament Corpus 2009 - 2017, v1](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/8). The license is Creative Commons - Attribution 4.0 International
