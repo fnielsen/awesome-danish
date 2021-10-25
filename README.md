@@ -101,6 +101,7 @@ A curated list of awesome resources for Danish language technology
 - [spaCy](https://spacy.io) - Python-based package with lemmatization.
 
 ### Named entity recognition
+- [ScandiNER](https://huggingface.co/saattrupdan/nbailab-base-ner-scandi) - Scandinavian named entity recognition, achieving state-of-the-art performance in Danish, Norwegian (both Bokmål and Nynorsk), Swedish, Icelandic and Faroese.
 - [DaLUKE](https://github.com/peleiden/daLUKE) - Danish named entity recognition based on LUKE. Described in *[DaLUKE: The Entity-aware,Danish Language Model](https://peleiden.github.io/bug-free-guacamole/main.pdf)*.
 - [spaCy](https://spacy.io) - Python-based named entity extraction 
 - [daner](https://github.com/ITUnlp/daner) - Named entity extraction from ITU NLP. Described in *[DKIE: Open Source Information Extraction for Danish](https://aclanthology.org/E14-2016.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q28609956)).
