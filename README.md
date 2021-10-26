@@ -113,8 +113,9 @@ A curated list of awesome resources for Danish language technology
 
 ### Sentiment analysis
 - [afinn](https://github.com/fnielsen/afinn/) - Python package with AFINN Danish lexicon annotated for sentiment, also installable with `pip install afinn`.
-- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://scholia.toolforge.org/work/Q67272735)).
 - [Hisia](https://github.com/Proteusiq/hisia) - Python package with pre-trained machine-learning based Danish sentiment analysis by Prayson Wilfred Daniel.
+- [senda](https://github.com/ebanalyse/senda) - Python package with transformer-based sentiment analysis from Ekstra Bladet Analyse with as of 2021 [state-of-the-art performance](https://danlp-alexandra.readthedocs.io/en/latest/docs/tasks/sentiment_analysis.html#benchmark-of-polarity-classification) on one dataset.
+- [Sentida](https://github.com/Guscode/Sentida/) - R package With Danish sentiment lexicon and handling of, e.g., negation. Detailed in *[SENTIDA: A New Tool for Sentiment Analysis in Danish](https://tidsskrift.dk/lwo/article/download/115711/163973/)* ([Scholia](https://scholia.toolforge.org/work/Q67272735)).
 
 ### Automatic Speech Recognition
 * [danspeech](https://github.com/danspeech/danspeech) - DeepSpeech2-based Danish speech recognition in Python
