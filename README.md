@@ -26,6 +26,7 @@ A curated list of awesome resources for Danish language technology
 * [XED](https://github.com/Helsinki-NLP/XED) - emotion annotated movie subtitles. Described in *[XED: A Multilingual Dataset for Sentiment Analysis and Emotion Detection](https://www.aclweb.org/anthology/2020.coling-main.575.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q105978198)).
 * [DaN+](https://github.com/bplank/DaNplus) - annotated for nested named entities on top of the entire Danish Universal Dependencies (UD_Danish-DDT) and 3 new web domains and includes lexical normalization. Described in *[DaN+: Danish Nested Named Entities and Lexical Normalization](https://www.aclweb.org/anthology/2020.coling-main.583/)* 
 * [WikiANN](https://drive.google.com/file/d/11onAGOLkkqrIwM784siWlg-cewa5WKm8/view?usp=sharing) - Named entity annotated corpus. Described in *[Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q54488065))
+* [Corona Dataset](https://github.com/certainlyio/corona_dataset) - Question dataset from Certainly annotated for domain and intent.
 
 ### Parallel corpora
 * [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
