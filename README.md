@@ -84,7 +84,7 @@ A curated list of awesome resources for Danish language technology
 
 ### Neural models
 - [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
-- [Danish BERT](https://github.com/mollerhoj/danish_bert) - Botxo/Møllerhøj's Weights for a BERT trained on a large Danish corpora.
+- [Danish BERT](https://github.com/mollerhoj/danish_bert) - Certainly's (Botxo/Møllerhøj) Weights for a BERT trained on a large Danish corpora.
 - [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
 - [ConvBERT](https://github.com/sarnikowski/danish_transformers/blob/main/convbert/README.md) - Philip Tamimi-Sarnikowski's model
 - [Danish ELMo on OSCAR](https://oscar-corpus.com/files/models/cc/da.zip) - (Link does not work as of December 2020)
