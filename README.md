@@ -37,13 +37,13 @@ A curated list of awesome resources for Danish language technology
 
 ### Spoken language corpora
 * [DanPASS](https://www.danpass.hum.ku.dk/) - Described in *DanPASS - A Danish Phonetically Annotated Spontaneous Speech corpus* ([Scholia](https://scholia.toolforge.org/work/Q71038312))
-* DK-Parole
 * [LANCHART](https://lanchart.hum.ku.dk/) - Centre for Language Change In Real Time. Various audio recordings. Whether the data is available is not immediately apparent. Described in, e.g., *[The data and design of the LANCHART study](https://www.tandfonline.com/doi/pdf/10.1080/03740460903364003)* ([Scholia](https://scholia.toolforge.org/work/Q97756317)).
 * [Common Voice](https://voice.mozilla.org/da) - Crowdsourced multilingual voice dataset. As of 6 May 2021, there is no Danish voice data. The interface is translated but public domain sentences need to be entered before voice recording can start. Sentence can be entered collaboratively at https://commonvoice.mozilla.org/sentence-collector. Common Voice is described in *Common Voice: A Massively-Multilingual Speech Corpus* ([Scholia](https://scholia.toolforge.org/work/Q79020060)).
 * NST 
   * [NST-speech-22khz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-20/) - A 22kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is dictation.
   * [NST-speech-16kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-19/) - A 16kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. The speech genre is read-aloud and the text is phonetically balanced. Designed for ASR training and testing.
   * [NST-speech-44kHz](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-21/) - A 44kHz speech corpus compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service. Designed for speech synthesis.
+* [VoxPopuli](https://github.com/facebookresearch/voxpopuli) - Speech from the European Parliament including 13'600 hours of unannotated Danish. Described in *[VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation](https://aclanthology.org/2021.acl-long.80.pdf)* ([Scholia]())
 * [Wikimedia Commons Audio files of Danish language](https://commons.wikimedia.org/wiki/Category:Audio_files_of_Danish_language) - Recordings of readings of articles from the Danish Wikipedia, Danish words and a few Danish literary works.
 
 ### Dictionaries and ontologies
