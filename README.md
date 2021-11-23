@@ -80,7 +80,7 @@ A curated list of awesome resources for Danish language technology
 * [Byte-Pair Encoding embedding](https://github.com/bheinzerling/bpemb) - Gensim-based subword embedding. A large number of Danish embeddings are available. They differ in the size of the vocabulary (from 1000 to 200000) and subspace dimensions (from 25 to 300).
 * [NLPL word embeddings repository](http://vectors.nlpl.eu/repository/) - NLPL word embeddings repository by Language Technology Group at the University of Oslo. Two Danish embedding models as of November 2020. 
   * [Danish NLPL word embedding](http://vectors.nlpl.eu/repository/20/38.zip) - 100-dimensional word2vec skipgram model trained by Andrey Kutuzov based on the Danish CoNLL17 corpus.
-* [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trains on Danish DSL corpus and Reddit.
+* [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trained on Danish DSL corpus and Reddit.
 
 ### Neural models
 - [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
