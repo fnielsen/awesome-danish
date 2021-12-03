@@ -82,7 +82,7 @@ A curated list of awesome resources for Danish language technology
   * [Danish NLPL word embedding](http://vectors.nlpl.eu/repository/20/38.zip) - 100-dimensional word2vec skipgram model trained by Andrey Kutuzov based on the Danish CoNLL17 corpus.
 * [Danish DSL and Reddit word2vec word embeddings](https://figshare.com/articles/Danish_DSL_and_Reddit_word2vec_word_embeddings/8099927/1) - 300-dimensional CBOW word2vec word embedding by Emil Middelboe and Anders Lillie trained on Danish DSL corpus and Reddit.
 
-### Neural models
+### Neural text models
 - [A-ttack](https://github.com/ogtal/A-ttack) - Ælæctra-based model for detection of "textual attacks" developed by [Analyse & Tal](https://ogtal.dk/). Related to the Ha-te model.
 - [Danish BERT](https://github.com/mollerhoj/danish_bert) - Certainly's (Botxo/Møllerhøj) Weights for a BERT trained on a large Danish corpora.
 - [Danish ELECTRA](https://github.com/sarnikowski/danish_transformers/tree/main/electra) - Philip Tamimi-Sarnikowski's Danish ELECTRA model. Available in the transformer library.
@@ -93,6 +93,9 @@ A curated list of awesome resources for Danish language technology
 - [Multilingual sentence transformers](https://www.sbert.net/docs/pretrained_models.html) - Pre-trained multilingual sentence transformers,
 - [wiki40b-lm-da](https://tfhub.dev/google/wiki40b-lm-da/1) - language model trained on Danish from Wiki40B dataset
 - [WikiBERT](https://github.com/turkunlp/wikibert) - BERT model for many languages, including Danish. Described in *[WikiBERT models: deep transfer learning for many languages ](https://ep.liu.se/ecp/178/001/ecp2021178001.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107059867))
+
+### Neural speech models
+' [Alvenir Wav2vec2](https://huggingface.co/Alvenir/wav2vec2-base-da) - Pretrained Danish neural model.
 
 ## Tools 
 
