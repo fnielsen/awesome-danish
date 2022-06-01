@@ -49,6 +49,7 @@ A curated list of awesome resources for Danish language technology
 * [Wikimedia Commons Audio files of Danish language](https://commons.wikimedia.org/wiki/Category:Audio_files_of_Danish_language) - Recordings of readings of articles from the Danish Wikipedia, Danish words and a few Danish literary works.
 
 ### Dictionaries and ontologies
+* [Det Centrale Ordregister](https://ordregister.dk/) - identifier for words and their inflections with 516,017 forms (COR).
 * [The Danish Sentiment Lexicon](https://github.com/dsldk/danish-sentiment-lexicon) - Det Danske Sentimentleksikon (DDS) 13.859 headwords assigned with polarity values.
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
 * DanNet [DanNet, Danish Wordnet (v 2.2) - owl format](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/25) - Danish wordnet with three-clause BSD-like license.
