@@ -50,14 +50,14 @@ A curated list of awesome resources for Danish language technology
 
 ### Dictionaries and ontologies
 * [Det Centrale Ordregister](https://ordregister.dk/) - identifier for words and their inflections with 516,017 forms (COR).
-* [The Danish Sentiment Lexicon](https://github.com/dsldk/danish-sentiment-lexicon) - Det Danske Sentimentleksikon (DDS) 13.859 headwords assigned with polarity values.
+* [The Danish Sentiment Lexicon](https://github.com/dsldk/danish-sentiment-lexicon) - Det Danske Sentimentleksikon (DDS) 13,859 headwords assigned with polarity values.
 * [NST-lexical-database](http://www.nb.no/sprakbanken/show?serial=sbr-26) A pronunciation dictionary compiled by Nordisk Språkteknologi and made available by the Norwegian Library Service.
 * DanNet [DanNet, Danish Wordnet (v 2.2) - owl format](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/25) - Danish wordnet with three-clause BSD-like license.
 * [Retskrivningsordbogen](https://dsn.dk/retskrivning/om-retskrivningsordbogen/ro-elektronisk-og-som-bog). The official Danish spelling dictionary digitally available under its own special license.
   * [Opslagsord og ordklasser](https://dsn.dk/retskrivning/om-retskrivningsordbogen/RO2012.opslagsord.med.homnr.og.ordklasse.zip) in CSV format.
   * Lexemes, word classes and inflections. [Excerpt](https://dsn.dk/retskrivning/om-retskrivningsordbogen/ro-elektronisk-og-som-bog) in the CSF format available. Full list presumably available upon request.
   * Lexemes, word classes, inflections, grammatical information, hyphenation and usage examples in XML. Full list presumably available upon request.
-* [Stavekontrolden](https://stavekontrolden.dk/) - word list with 160132 Danish words. Used, e.g., for spelling suggestion in LibreOffice. Licensed under GPL, LPGL, and MPL.
+* [Stavekontrolden](https://stavekontrolden.dk/) - word list with 160,132 Danish words. Used, e.g., for spelling suggestion in LibreOffice. Licensed under GPL, LPGL, and MPL.
 * [The Concise Danish Dictionary](http://da.speling.org/)/The Comprehensive Danish Dictionary/Den Store Danske Ordliste (DSDO), word list created by Skåne Sjælland Linux User Group and distributed under a GPL license
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [Interactive Terminology for Europe](https://iate.europa.eu) (IATE) - European Union terminology database. October 2020 version contains over 500,000 Danish terms.
