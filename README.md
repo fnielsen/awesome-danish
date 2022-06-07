@@ -116,6 +116,7 @@ A curated list of awesome resources for Danish language technology
 - [Polyglot named entity extraction](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html) - 
 
 ### Entity linking
+- [Babelfy](http://babelfy.org/) - Web app and service for linking words and entities.
 - [DBpedia Spotlight](https://www.dbpedia-spotlight.org/) - DBpedia-based entity linker. Described in *Improving Efficiency and Accuracy in Multilingual Entity Extraction* ([Scholia](https://scholia.toolforge.org/work/Q106526263))
 
 ### Sentiment analysis
