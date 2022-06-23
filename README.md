@@ -29,7 +29,8 @@ A curated list of awesome resources for Danish language technology
 * [Corona Dataset](https://github.com/certainlyio/corona_dataset) - Question dataset from Certainly annotated for domain and intent.
 
 ### Parallel corpora
-* [Europarl](https://www.statmt.org/europarl/), parallel sentences between Danish and English from the European Parlament. 
+* [Europarl](https://www.statmt.org/europarl/) - parallel sentences between Danish and English from the European Parlament. 
+* [ITU Faroese Pairs Dataset](https://huggingface.co/datasets/strombergnlp/itu_faroese_danish) - Faroese-Danish parallel text. Described in *[The ITU Faroese Pairs Dataset](https://arxiv.org/pdf/2206.08727.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q112673011))
 * [JW300](http://opus.nlpl.eu/JW300.php) - "a parallel corpus of over 300 languages with around 100 thousand parallel sentences per language pair on average"
 * [OpenSubtitles2018](http://opus.nlpl.eu/OpenSubtitles-v2018.php) - Parallel corpus from movie and tv subtitles. Described in *[OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles](http://www.lrec-conf.org/proceedings/lrec2016/pdf/947_Paper.pdf)*.
 * [Tatoeba](https://tatoeba.org/eng/downloads) - Sentences
