@@ -111,6 +111,9 @@ A curated list of awesome resources for Danish language technology
 - [cstlemma](https://github.com/kuhumcst/cstlemma) - lemmatiser.
 - [spaCy](https://spacy.io) - Python-based package with lemmatization.
 
+### Punctuation 
+- [punctfix](https://github.com/danspeech/punctfix) - "Adds punctuation and capitalization for a given text."
+
 ### Named entity recognition
 - [ScandiNER](https://huggingface.co/saattrupdan/nbailab-base-ner-scandi) - Scandinavian named entity recognition, achieving state-of-the-art performance in Danish, Norwegian (both Bokmål and Nynorsk), Swedish, Icelandic and Faroese.
 - [DaLUKE](https://github.com/peleiden/daLUKE) - Danish named entity recognition based on LUKE. Described in *[DaLUKE: The Entity-aware,Danish Language Model](https://peleiden.github.io/bug-free-guacamole/main.pdf)*.
