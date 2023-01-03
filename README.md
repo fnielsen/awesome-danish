@@ -3,9 +3,9 @@ A curated list of awesome resources for Danish language technology
 
 ## Data
 ### Corpora
-* [Danish Gigaword](http://gigaword.dk/) - Collection of 10^12 words of Danish text. Described in *[The Danish Gigaword Corpus](http://www.ep.liu.se/ecp/178/046/ecp2021178046.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107060118)) 
+* [Danish Gigaword](https://sprogteknologi.dk/dataset/danish-gigaword) - Collection of 10^12 words of Danish text. Described in *[The Danish Gigaword Corpus](https://arxiv.org/abs/2005.03521)* ([Scholia](https://scholia.toolforge.org/work/Q107060118)) 
 * [Danish review dataset](https://github.com/AlessandroGianfelici/danish_reviews_dataset) - Trustpilot-crawled dataset by Alessandro Gianfelici with  44,085 reviews .
-* [OSCAR](https://traces1.inria.fr/oscar/) - Danish corpus derived from the Common Crawl corpus. Described in *[Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q85398180))
+* [OSCAR](https://oscar-project.org/) - Danish corpus derived from the Common Crawl corpus. Described in *[Asynchronous Pipeline for Processing Huge Corpora on Medium to Low Resource Infrastructures](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/9021/file/Suarez_Sagot_Romary_Asynchronous_Pipeline_for_Processing_Huge_Corpora_2019.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q85398180))
 * CLARIN-DK-UCPH
   * [The Danish Parliament Corpus 2009 - 2017, v1](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/8). The license is Creative Commons - Attribution 4.0 International
   * [Grundtvig's Works Corpus](https://repository.clarin.dk/repository/xmlui/handle/20.500.12115/31). Not for commercial use as the license is Creative Commons - Attribution-NonCommercial 4.0 International.
@@ -14,7 +14,7 @@ A curated list of awesome resources for Danish language technology
 * [DanNet](https://cst.ku.dk/projekter/dannet/) - wordnet with usage examples. The usage examples have been used for word sense disambiguation, see [XL-WSD: An Extra-Large and Cross-Lingual Evaluation Frameworkfor Word Sense Disambiguation](http://wwwusers.di.uniroma1.it/~navigli/pubs/AAAI_2021_Pasinietal.pdf)
 * [SemDaX](https://github.com/coastalcph/semdax) - POS-tagged (only adjectives, nouns and verbs), super sense tagged and BIO-tagged sentences. For educational, teaching or research purposes only. 
 * [NOMCO](https://cst.ku.dk/projekter/the-danish-nomco-corpus/) - "an annotated multimodal collection of conversational Danish". Apparently not directly available for download. [ [Scholia](https://scholia.toolforge.org/work/Q57730960) ]
-* [Danish Propbank](http://catalog.elra.info/en-us/repository/browse/ELRA-W0117/) - commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
+* [Danish Propbank](https://catalog.elra.info/en-us/repository/browse/ELRA-W0117/) - commercial resource with 87,000 tokens annotated with morphosyntactic, VerbNet classes and semantic roles. 
 * [Danish Dependency Treebank v. 1.0](http://www.buch-kromann.dk/matthias/ddt1.0/) - Matthias Trautner Kromann et al.'s dependency annotation of some texts from PAROLE.
 * [Mr. Bean corpus](https://blog.cbs.dk/mrbean-korpus/) - Small Danish-Italian corpus with written and spoken retelling (of Mr Bean episodes) and argumentative text (about smoking). Possibly described in *Tekststrukturering pa italiensk og dansk*
 * [Køge Corpus](https://biling.talkbank.org/access/Koge.html) - Danish-Turkish transcribed corpus by Jens Normann Jørgensen.
