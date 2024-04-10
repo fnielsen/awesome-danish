@@ -63,7 +63,7 @@ A curated list of awesome resources for Danish language technology
   * In Debian-based distributions the word list may be installed with `sudo aptitude install aspell-da` and extracted with `spell -d da dump master`.
 * [Interactive Terminology for Europe](https://iate.europa.eu) (IATE) - European Union terminology database. October 2020 version contains over 500,000 Danish terms.
 * [The Danish FrameNet Lexicon](https://korpus.dsl.dk/resources/details/framenet.html), 40,267 lines resource containing 5,300 verbs and 6,490 verbal nouns
-* Wikidata lexemes - structured database with metadata about lexemes, their forms and their sense. Over [1,060,000 lexemes](https://ordia.toolforge.org/statistics/) including [over 20,000 Danish lexemes](https://ordia.toolforge.org/language/) in March 2023.
+* Wikidata lexemes - structured database with metadata about lexemes, their forms and their sense. Over [1,290,000 lexemes](https://ordia.toolforge.org/statistics/) including [over 81,000 Danish lexemes](https://ordia.toolforge.org/language/) in April 2024.
   * [Overview over Danish lexemes in Ordia](https://ordia.toolforge.org/language/Q9035) - webapp with overview of content of Wikidata lexemes based on SPARQL queries. 
   * [Wikidata lexemes latest lexemes dump in ttl](https://dumps.wikimedia.org/wikidatawiki/entities/latest-lexemes.ttl.bz2) - official dump of lexeme-only part of Wikidata.
  * [NST-ngrams](https://www.nb.no/sprakbanken/ressurskatalog/oai-nb-no-sbr-28/) - A N-gram frequency list compiled by Nordisk Språkteknologi from newspaper text and made available by the Norwegian Library Service. Can be compiled to an n-gram LM with SRILM.
