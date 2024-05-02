@@ -101,6 +101,7 @@ A curated list of awesome resources for Danish language technology
 - [WikiBERT](https://github.com/turkunlp/wikibert) - BERT model for many languages, including Danish. Described in *[WikiBERT models: deep transfer learning for many languages ](https://ep.liu.se/ecp/178/001/ecp2021178001.pdf)* ([Scholia](https://scholia.toolforge.org/work/Q107059867))
 
 ### Neural speech models
+* [Hugging Face](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition&language=da) - List of models for Danish automatic speech recognition.
 * [Alvenir Wav2vec2](https://huggingface.co/Alvenir/wav2vec2-base-da) - Pretrained Danish neural model.
 * [Whisper](https://openai.com/blog/whisper/) - Multilingual neural model from OpenAI.
 * [xls-r-300m-danish-nst-cv9](https://huggingface.co/chcaa/xls-r-300m-danish-nst-cv9) - Pretrained Danish neural model.
