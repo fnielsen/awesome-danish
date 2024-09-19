@@ -158,6 +158,9 @@ A curated list of awesome resources for Danish language technology
 - [ELEXIS Monolingual Word Sense Alignment Task](https://competitions.codalab.org/competitions/22163) - Predicting the relationship between two senses in each of several languages, including Danish.
 - [OffensEval 2020 - Danish](https://competitions.codalab.org/competitions/22998) - Offensive Language Identification in Social Media competition. Described in [Offensive Language and Hate Speech Detection for Danish](https://arxiv.org/pdf/1908.04531.pdf) ([Scholia](https://scholia.toolforge.org/work/Q66592400))
 
+## Benchmarks 
+- [Danoliterate](https://danoliterate.compute.dtu.dk/) - Overview of the performance of language models on a range of individual benchmarks.
+
 ## Resources about resources
 - [Danish resources](https://people.compute.dtu.dk/faan/ps/Nielsen2016Danish.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
 - [Scholia's topic aspect for *Danish*](https://scholia.toolforge.org/topic/Q9035), works (mostly scientific articles) about "Danish" as listed in Wikidata.
