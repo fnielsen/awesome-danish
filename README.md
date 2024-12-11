@@ -162,6 +162,7 @@ A curated list of awesome resources for Danish language technology
 
 ## Benchmarks 
 - [Danoliterate](https://danoliterate.compute.dtu.dk/) - Overview of the performance of language models on a range of individual benchmarks.
+- [ScandEval](https://scandeval.com/) - Overview of the performance of language models on a range of individual benchmark, Danish as well as other Germanic languages.
 
 ## Resources about resources
 - [Danish resources](https://people.compute.dtu.dk/faan/ps/Nielsen2016Danish.pdf) - Finn Årup Nielsen's PDF with pointers to Danish resources.
