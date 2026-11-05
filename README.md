@@ -146,6 +146,8 @@ A curated list of awesome resources for Danish language technology
 * [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech/) - Commercial Web-based text-to-speech synthesis for a number of languages, including Danish.
 * [Amazon Polly](https://aws.amazon.com/polly/) - Commercial Web-based text-to-speech synthesis for a number of languages, including Danish. Part of Amazon's commercial AWS services. Female and male voices are available as examples. Limited unregistered free service available at [TTSMP3](https://ttsmp3.com/text-to-speech/Danish/).
 
+* [TTSMP3.net](https://ttsmp3.net/) - Commercial browser-based text-to-speech service using Microsoft Azure voices, including Danish, with MP3 downloads and SSML controls. Offers a free trial and paid plans.
+
 ### Fundamental processing
 - [DaNLP](https://github.com/alexandrainst/danlp/) - "a repository for Natural Language Processing resources for the Danish Language."
 - [dapipe](https://github.com/ITUnlp/dapipe) - Danish UD-pipe: tokenisation, lemmatisation, PoS tagging, morphology, dependencies.
